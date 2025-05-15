@@ -1,0 +1,16 @@
+{
+  "name": "nixiebot",
+  "version": "1.0.0",
+  "description": "Cute currency and utility bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asteria Moon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.14.3"
+  }
+}

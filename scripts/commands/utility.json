@@ -1,0 +1,22 @@
+{
+  
+  "utilitycommands": { 
+  "embed":
+           {
+             "name": "Embed.",
+             "usage": "~embed <Title> ++ <Description> ++ <ThumbnailURL> ++ <ImageURL> (You must include the two ++ to seperate!",
+             "aliases": "~e, ~embeded.",
+             "description": "Make a fancy embeded message with a thumbnail and big image for your channels!"
+             
+           },
+    "suggestion": 
+          {
+            
+            "name": "Suggestion.",
+            "usage": "~suggestion <put suggestion here>, (brackets not included).",
+            "aliases": null,
+            "description": "If you have a suggestion for Nixie's developement, use this command to send it in to the Devs and the Owner!"
+            
+         }
+     }
+}

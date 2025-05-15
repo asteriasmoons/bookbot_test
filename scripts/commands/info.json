@@ -1,0 +1,58 @@
+{
+  
+  "infocommands": { 
+  "serverinfo":
+           {
+             "name": "Server Information.",
+             "usage": "~serverinfo.",
+             "aliases": "~si, ~server.",
+             "description": "This command will show you information on the server/guild."
+             
+           },
+    "ping":
+           {
+             
+             "name": "Ping.",
+             "usage": "~ping.",
+             "aliases": "~p.",
+             "description": "This command you can use to check if the bot is responding and online. It will send 'pong' in response to your 'ping'!"
+             
+           },
+    "donate":
+           {
+             
+             "name": "Donate.",
+             "usage": "~donate.",
+             "aliases": "~dn.",
+             "description": "Donate will send you an embed with a button you can click if you wish to donate to Nixie, sign up for Nixie premium Tier membership(s), or 'buy' a month membership Tier without the hassle of recurring payments! Supporting the development and furtherment of Nixie bot comes with many benefits that you can read about on Nixie's Ko-fi Shop!"
+             
+           },
+    "invite":
+           {
+             
+             "name": "Invite.",
+             "usage": "~invite.",
+             "aliases": "~invs.",
+             "description": "Invite will send you an embed showing information on your invites! It shows how many people you have invited to the server/guild and the invite codes you have used to invite members to the server/guild!"
+             
+           },
+    "help":
+           {
+             
+             "name": "Help.",
+             "usage": "~help <command name/alias/module/category>.",
+             "aliases": "~h.",
+             "description": "This is the Help menu(s) command! Get information on the bot/command/server!"
+             
+           },
+    "channelinfo": 
+           {
+             
+             "name": "Channel Information.",
+             "usage": "~channelinfo.",
+             "aliases": "~channel, ~ci.",
+             "description": "Gives you information on the channel, such as, channel name, ID, Type (text/voice), and gives you how many users are in this channel, will say whether it is NSFW or not and the date it was created!"
+             
+          }
+     }
+}

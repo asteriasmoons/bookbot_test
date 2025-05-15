@@ -1,0 +1,108 @@
+{
+  "runes": {
+        "sun":
+               {
+                   "name": "The Sun",
+                    "keywords": 
+                    "Growth, new beginnings, fertility, prosperity, solar magic, god.",
+                    "description": 
+                    "The sun means different things to different people; however, the fact that it sustains the planet also means it sustains our lives and brings an abundance of good things."
+                 },
+        "moon":
+                 {
+                    "name": "The Moon", 
+                    "keywords": 
+                    "Intuition, the goddess, dreams, psychic abilities, emotions, love, healing, shadow work.",
+                    "description": 
+                    "The Moon witch rune pops up in a reading to prompt us to look deeper below the surface. It asks us to use our intuition, look into our dreams, and connect with our emotional side." 
+                  },
+       "flight":
+                  {
+                    "name": "Flight",
+                    "keywords": 
+                    "Travel, birds, communication, messages from the other side, soaring at great heights, fast moving, news.",
+                    "description": 
+                    "The Flight Rune brings otherworldly news or reminds us of some form of communication, be it spoken or written. Birds are sacred animals and messengers to the heavens and to the gods." 
+                  },
+       "rings":
+                  {
+                    "name": "Rings",
+                    "keywords": 
+                    "Bonding, alliance, marriage, teams, family.",
+                    "description": 
+                    "This witches rune indicates an issue, be it good or bad, with family, co-workers, friends, etc. Bonding on different levels is also the message."
+                  },
+      "trinity":
+                  {
+                    "name": "Trinity",
+                    "keywords": 
+                    "Triple goddess, life/death/rebirth, trinity, love – romance.",
+                    "description": 
+                    "Some people read this witches rune as a flower – new life, birth, fertility, love. I tend to read it more like the triquetra – life/death/rebirth cycles, triple goddess, etc."
+                  },
+      "woman":
+                  {
+                     "name": "Woman",
+                     "keywords": 
+                     "Womb, creativity, birthing, motherhood, femininity, yoni.",
+                     "description": 
+                     "The Divine Feminine in us and all around us. One’s womb is full, with a baby physically, OR with a creative idea or project."
+                  },
+     "man":
+                  {
+                    "name": "Man",
+                    "keywords": 
+                    "Male, phallus, arrow, action, fertility, virility, strength, aggression, justice, goals.",
+                    "description": 
+                    "The yin and yang – male and female are represented in the witches’ runes for a reason. There’s duality on every level in the universe. The man rune is the arrow, the phallus, and represents all things masculine."
+                },
+     "harvest":
+                {
+                  "name": "Harvest",
+                  "keywords": 
+                  "Abundance, reaping, manifesting, wealth, family security, finances.",
+                  "description": 
+                  "What happens during the harvest? We collect all we’ve been growing. This rune represents manifestation and reaping the rewards. Finances and security."
+                },
+    "crossroads":
+                {
+                  "name": "Crossroads",
+                  "keywords": 
+                  "Decisions, blocked paths, opportunities, the space between, spirits.",
+                  "description": 
+                  "The crossroads as a symbol and as an actual place are powerful. When we reach a crossroads in our lives, we have to make a decision. There may be a new path presented to us or our paths might be blocked."
+                },
+    "waves":
+                {
+                  "name": "Waves",
+                  "keywords": 
+                  "Ocean, land of the dead, purification, water, emotions, healing.",
+                  "description": 
+                  "Water is one of those elements that either draws people or scares them…or both. It’s the element of change, creation, destruction, nourishment, and represents so much in a reading. Purification is also a big indication."
+                },
+    "star":
+                {
+                  "name": "Star",
+                  "keywords": 
+                  "Guidance, a light in the darkness, wishes, gifts, other worlds, astrology.",
+                  "description": 
+                  "When you look up at the stars, how do you feel? Incorporate that into your readings when the star witches’ rune shows up. The star is indeed a gift and grants wishes to some. It may be a guiding light to others lost in the darkness."
+                },
+   "scythe":
+                {
+                  "name": "Scythe",
+                  "keywords": 
+                  "The reaping, death, waning, end of an era, releasing and clearing.",
+                  "description": 
+                  "The scythe may seem scary to some, like the Death card in a tarot reading. BUT the scythe also means an end to something that needs to be released. It could mean clearing and letting go."
+                },
+   "eye":
+                {
+                  "name": "Eye",
+                  "keywords": 
+                  "Third eye, seeing the truth, clairvoyance, someone’s watching, the evil eye and protection.",
+                  "description": 
+                  "The all-seeing eye. It represents seeing things unseen, also seeing the beauty in things others don’t. Can also be a warning of the evil eye or someone watching."
+                }
+        }
+} 

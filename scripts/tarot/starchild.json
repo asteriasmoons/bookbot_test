@@ -1,0 +1,941 @@
+{ 
+    "deck": "Starchild Tarot",
+    "size": "Full - Major + Minor arcana",
+    "cards": [
+        {
+
+        "name": "The Fool",
+        "number": "0",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/DfXcCjyN/0329-C768-C621-4-A76-991-B-1-B652-FE83694.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Fool, or Starseed, is that inner spark of your being that journeys throughout the many lifetimes, forms and worlds of your story. It is a forceful energy that gives you the strength and foresight to go your own way along a new, uncharted path. When you connect with this part of yourself, the serendipitous moments seem to continuously unfold around you. The lessons that shape and form you throughout all of your adventures and awakenings are going to be essential to your self-discovery, but don’t forget: the limitations of the outside world also have the power to distract us from our higher calling."
+
+        },
+        {
+
+        "name": "The Magician",
+        "number": "1",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/P5tz5dzG/0-D529881-9721-4-EFB-99-BD-EC4518170588.jpg",
+        "deck": "Starchild tarot",
+        "description":
+        "As card number 1 of the deck, the Magician represents new beginnings and sparks of inspiration and invention. Your next step may require self-discipline and planning, but with a dash of perseverance and a little bit of foresight, anything is possible with the power of the Magician."
+
+        },
+        {
+
+        "name": "The High Priestess",
+        "number": "2",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/65VfK8ZL/39-F1-B0-A9-1582-4-B49-9-DA3-DC46-C0-D706-C9.jpg",
+        "deck": "Starchild tarot",
+        "description":
+        "The High Priestess is a reminder that we each contain within us the wisdom that we seek. She describes a deep understanding of the higher realms of consciousness and acknowledges the universal balance of light and dark energies within us."
+
+        },
+        {
+
+        "name": "The Empress",
+        "number": "3",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/PrnQ0WC5/72-D03214-1-D9-E-410-F-B164-0-C1-C23-FB83-DE.jpg",
+        "deck": "Starchild tarot",
+        "description": 
+        "The Empress encourages us to reconnect with our gentle spiritual nature and divine feminine energy, allowing us to celebrate our strength and beauty. Through cultivating a practice of self-reflection, we may uncover tools for personal growth and transformation."
+
+        },
+        {
+
+        "name": "the emperor",
+        "number": "4",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/853t7xkR/2-CCF871-C-30-DF-449-D-B729-A9-EC71737755.jpg",
+        "deck": "Starchild tarot",
+        "description": 
+        "The Emperor encourages us to take stock of our state of mind and powers of discernment. If you are experiencing stress due to external influences in your life, now may be a good time to maintain your focus on the task ahead and reassess how you are processing your thoughts."
+
+        },
+        {
+
+        "name": "The Hierophant",
+        "number": "5",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/VvC4n453/AC163-ABD-83-E7-4-ED1-BF0-F-F19-B7-A89591-D.jpg",
+        "deck": "Starchild tarot",
+        "description":
+        "The Hierophant typically shows up when you are ready to expand your awareness, meet new people or gain fresh spiritual insights. It may also signify someone who has the potential to radically transform your worldview or conditioned beliefs; or a time when you are driven to explore or question your own spiritual values and philosophies."
+
+        },
+        {
+
+        "name": "The Lovers",
+        "number": "6",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/W3t5bsVp/81-F1-D889-BA1-E-4-F2-E-8-BBA-4-EE43-D65-CF4-A.jpg",
+        "deck": "Starchild tarot",
+        "description":
+        "An important relationship may be present in your life or near future: this could indicate a deep platonic friendship or romantic love. This card may describe the establishment of mutual respect and adoration between two individuals, as they honour and share personal beliefs and life values."
+
+        },
+        {
+
+        "name": "The Chariot",
+        "number": "7",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/hG2CBfH3/1-BCB2584-6-FBC-4-E8-A-9655-99-B2-CD00-C263.jpg",
+        "deck": "Starchild tarot",
+        "description": 
+        "The Chariot represents your inner strength, confidence and steadfast determination in life. Typically identified as a card of victory and power, it signifies those moments when you have boundless spouts of energy and a sheer will to get things done!"
+
+        },
+        {
+
+        "name": "Justice",
+        "number": "8",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/wvKdpRXQ/3724-A7-B7-A2-FF-44-FC-9265-54-EE361-C663-C.jpg",
+        "deck": "Starchild tarot",
+        "description":
+        "Justice is a card of energy transference; it describes the cause-and-effect balance of positive or negative thoughts and actions. How can you learn from experience? You will gain a loving wisdom and deeper spiritual knowledge once you are able to reflect on the choices you have made in the past."
+
+        },
+        {
+
+        "name": "The Hermit",
+        "number": "9",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/Bb498Ww8/200-CEA38-9-D71-4-F50-AFB3-18-BE09251-C7-C.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Hermit, or Serenity, describes a soul-searching journey in the pursuit of truth, purpose and harmony. You are waking up to a renewed sense of spirituality that is illuminating your life in fresh and vibrant ways."
+
+        },
+        {
+
+        "name": "Wheel Of Fortune",
+        "number": "10",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/G3xnW2Hv/2390-D5-BE-7627-4-FA6-9-EA4-E4-D3207-B9690.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Understanding the Wheel of Fortune signifies a state of acceptance of the highs and lows in life. With this energy comes the sensation of fate or potential opportunity, depending on how you look at it, while encouraging us to acknowledge the underlying patterns that repeatedly emerge."
+
+        },
+        {
+
+        "name": "Strength",
+        "number": "11",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/QtpZxNSG/D075-B2-CF-9-C3-E-4-CDA-BDF7-58-A1820-D6-B18.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This powerful card concerns the emergence of your Higher Self – one that is full of grace, love and compassion. You are strong enough to navigate through any challenges and obstacles, a fact that emphasizes your ever-expanding state of consciousness."
+
+        },
+        {
+
+        "name": "The Hanged Man",
+        "number": "12",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/brgXk6Km/1326120-B-8473-43-C1-AE99-2-D4345-E4664-B.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Now might be a good time to pause, take a deep breath, and review your plans. If you’re feeling stuck, don’t make any hasty decisions just yet. If you are feeling as though you are standing at a crossroads, take this time to fully absorb the directions or options that are being presented to you."
+
+        },
+        {
+
+        "name": "Death",
+        "number": "13",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/kgZ0QRpP/92428-E69-715-C-499-B-8319-9972-D82537-D2.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Death or Transformation shows up when something is coming to an end and you must come to terms with how this will affect your life. At first, you might find it painful or even scary to let go of it, but in the long run this will create space and room for you to breathe and just be."
+
+        },
+        {
+
+        "name": "Temperance",
+        "number": "14",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/rmYxscpj/B01-A509-B-1081-46-A6-9-E9-E-AE49-BA3-B67-F2.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Temperance encourages us to be mindful of any decisions we make at this time. There may be a need for balance, moderation or a reassessment of personal goals. In the grand scheme of things – and after everything you have been through – it is important to connect with the larger scope of your life."
+
+        },
+        {
+
+        "name": "The Devil",
+        "number": "15",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/GmH0Txzj/CEF45-D50-B55-F-439-A-86-F4-FB7-DD73-CA368.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "What is holding you back at this time? Perhaps you already know what it is, but you have not been able to name it out loud. It is time to acknowledge a state of entrapment that exists in your life. This could take the form of a negative relationship, an obsession, a fearful mindset or some kind of addiction. The Devil may also indicate a lack of moderation or self-control, and the self-defeating patterns from which we must learn to release ourselves."
+
+        },
+        {
+
+        "name": "The Tower",
+        "number": "16",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/RVP50D1F/E94487-C8-0-AEB-43-BD-B670-78-F4-DF41-CA70.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Tower indicates a period of complete or sudden change. You may experience a sense of insecurity or loss – as if your world has been flipped upside down. It can also denote situations in which the mind, body and spirit are not working in harmony due to passive or unhealthy life choices. The Tower encourages you to examine old patterns or systems of belief, leading to fresh perspectives that are transformational and positive in the long term."
+
+        },
+        {
+
+        "name": "The Star",
+        "number": "17",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/ncVfpJDg/57-B4-CA53-7-B16-4-A01-8136-BDB75-ADD5-D08.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A beautiful omen to receive, the gentle magic of the Star connects with your inner voice of inspiration and light. When it speaks, your heart lifts and your spirit soars. This marks a time of renewal and fulfilment, when the serendipitous magic seems to continuously unfold around you."
+
+        },
+        {
+
+        "name": "The Moon",
+        "number": "18",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/pdFgqVwh/28-EFAAAD-4795-4-B70-9560-1370-B432-D9-A3.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Moon is a card of sensitivities, dreams, imagination and psychic powers. Typically described as a harbinger of disillusionment, it is not without its more positive aspects; these can indicate the powerful sparks of inspiration that feed invention, creativity and intuitive discoveries. It represents an ancient, arcane magic that resides within us all."
+
+        },
+        {
+
+        "name": "The Sun",
+        "number": "19",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/1t0b1C5y/A8138790-D013-4-C42-8-AB9-BB3-D0-FDF155-C.jpg",
+        "deck": "Starchild Tarot",
+        "description": 
+        "When the Sun shows up in a reading, it is time to acknowledge your blessings. Here is an expansive, love-filled radiance that marks a joyous, magnificent time in your life. Along with a renewed sense of abundance, you have reached a higher state of consciousness: this elevates your inner growth and connects you with the divine light of Source energy."
+
+        },
+        {
+
+        "name": "Judgement",
+        "number": "20",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/Pxn0csH6/DE94-AE11-703-C-4678-9647-3597-AEC5-EAAA.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Judgement is about understanding your inner divine intelligence. Here, you may look back on the choices you have made and identify the lessons you have learned, with each step advancing towards your spiritual growth. No more fears. No more doubts. No more self-judgement. This is a time of transformation: through elevating your thoughts, speaking your truth and connecting with the divine light that ignites your dreams, anything is possible."
+
+        },
+        {
+
+        "name": "The World",
+        "number": "21",
+        "arcana": "major",
+        "suit": null,
+        "img": "https://i.postimg.cc/yxVt1mkc/4-AFCA779-6-AAF-4-F42-8-D85-A137-C9-EB50-C4.jpg",
+        "deck": "Starchild Tarot",
+        "description": 
+        "Everything has come full circle as you enter a period of resolution and enlightenment. This is the culmination of all of your efforts and hard work, so it is time to acknowledge and celebrate all of your accomplishments! There is a synthesis of success, fulfilment and triumph in your undertakings. As a result, emotional and spiritual growth lead to higher states of consciousness and a better understanding of your place in the Universe."
+
+        },
+        {
+
+        "name": "Ace Of Wands",
+        "number": "1",
+        "arcana": "Minor",
+        "suit": "wands",
+        "img": "https://i.postimg.cc/1532bKxZ/CA532-CFE-62-F7-4-EB4-8274-CEE107-D528-C2.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A wonderful new beginning full of inspiration, vitality and movement! This is a seed of invention that has the potential to grow into something great, and highlights new breakthroughs in consciousness."
+
+        },
+        {
+
+        "name": "Two Of Wands",
+        "number": "2",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/wT4ZzsHR/35554574-0270-452-E-9672-CA3-F28-C6-D8-CF.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This card comes as a powerful reminder that you are capable of anything you wish to accomplish when you focus your mind towards a specific task or goal. You have acknowledged all of your options and can now look ahead with purpose and determination."
+
+        },
+        {
+
+        "name": "Three Of Wands",
+        "number": "3",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/h4rNC55r/53-C7-E226-0562-491-A-B268-1322-B50-C5-F3-E.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Three of Wands marks a time in your life when you can look to the future with total clarity. This wisdom comes from having the determination to walk your own path and be true to your heart. You are gaining momentum in achieving your dreams and are aware of how your creative planning has been pivotal in helping you make big decisions."
+
+        },
+        {
+
+        "name": "Four Of Wands",
+        "number": "4",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/GtqNH4yN/C8680-BD0-388-A-4-A00-A0-D4-87228-A74990-C.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Success! You have reached a period of stability after all your hard work. This may also denote a time for repose or recovery once certain challenges or hardships have finally passed. There is much to look forward to, so give yourself permission to rest and rejoice."
+
+        },
+        {
+
+        "name": "Five Of Wands",
+        "number": "5",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/kgVZgXX1/D5-F367-AC-CC98-471-E-99-BF-CD2397-D2-D878.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Five of Wands tends to show up when some kind of struggle is occurring in your life, whether you feel you must stick up for yourself, or when there are surrounding ideas or values that clash with your own."
+
+        },
+        {
+
+        "name": "Six Of Wands",
+        "number": "6",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/GmZf8w4c/7-E92809-B-88-EB-4-DBE-8957-DDB3996484-A4.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The arrival of positive news! You are victorious and should be proud of your brilliant accomplishments. Your enthusiasm has paid off threefold, as you realize your limitless potential. There is nothing you cannot achieve and others also recognize this strength in you."
+
+        },
+        {
+
+        "name": "Seven Of Wands",
+        "number": "7",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/rpxP5n45/8454347-F-096-E-4-F07-934-F-AECD8-CC05-C58.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Seven of Wands serves as a positive reminder that your life is heading in the right direction. You have worked hard and know what you want, so don’t be discouraged by any minor setbacks that may show up along the way."
+
+        },
+        {
+
+        "name": "Eight Of Wands",
+        "number": "8",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/brCCqKXf/9445-A36-C-3-B3-B-4-C69-A6-B5-551283-A7428-C.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Eight of Wands is a card of swift action, transition and positive news. Generally when it shows up, it may be an indication that things are moving along rather quickly! Here is a creative force that requires your personal resolve and attention, perhaps with regards to new opportunities that are coming your way."
+
+        },
+        {
+
+        "name": "Nine Of Wands",
+        "number": "9",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/FRxCBYDR/9359-C422-E2-F2-4-B45-872-C-C3-FC19120066.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Just as you see light at the end of the tunnel, a minor setback might suddenly get in the way. This card asks you to step into your resilience – you are almost there, so now is not the time to give up! Your hard work and efforts are close to a state of completion, and you have the inner strength, wisdom and perseverance to keep moving forward."
+
+        },
+        {
+
+        "name": "Ten Of Wands",
+        "number": "10",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/0QvHnYGF/9-A6-A9-E64-BED2-4334-BE6-E-C75-D46006-F6-E.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "After all you have achieved, you may feel overburdened by responsibilities, finding yourself overworked or somehow out of kilter. The Ten of Wands may also indicate an emotional attachment or experience that you are still harbouring, which is depleting your energy and distracting you from the larger scope of your life."
+
+        },
+        {
+
+        "name": "Page Of Wands",
+        "number": "11",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/mk2pfT5S/153-B41-E3-D3-D6-44-AB-9-D32-C646591804-DE.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "There may be new events and opportunities ahead. Be sure to move forward with clear intentions, always remembering the root of your confidence. The fruition of creativity and ideas. New adventures just beyond the horizon."
+
+        },
+        {
+
+        "name": "Knight Of Wands",
+        "number": "12",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/44BFvhY2/6-E9-FEAF2-CE5-F-416-E-A68-A-37-E4804723-BD.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "You are making things happen! After everything you have worked towards and experienced, your personal goals and ambitions have become crystal clear. Make sure to plan accordingly, or else you might feel rushed when it comes to getting things done."
+
+        },
+        {
+
+        "name": "Queen Of Wands",
+        "number": "13",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/xT8p6THf/793-EF1-F9-CDA3-431-B-A9-DD-B916-DE4-E4-E24.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "It is important to acknowledge your limitless potential! You are capable of accomplishing anything you wish if you put your mind to the task. Maintaining a positive mindset attracts an abundance of light into your life – the first step towards manifesting your dreams."
+
+        },
+        {
+
+        "name": "King Of Wands",
+        "number": "14",
+        "arcana": "Minor",
+        "suit": "Wands",
+        "img": "https://i.postimg.cc/sDL6qd9p/9-DCEF9-F4-43-A9-48-C4-BDC6-A6-B03-DD168-A8.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "You are a strong leader and attract like-minded people to you, just as others look to you for guidance. Your vitality and enthusiasm inspire the world, as you are able to come up with creative and complex ideas with confidence and ease. If there are any opportunities presenting themselves to you at the moment, now is the time to seize them."
+
+        },
+        {
+
+        "name": "Ace Of Cups",
+        "number": "1",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/zGRt1t04/9-BBC6-B80-2630-4-B50-BB13-C5491-CA53456.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ace of Cups marks a time of new beginnings and blissful relationships that leave you feeling energized and giddy! This could point to new romance, or deeply rooted connections with others. It is a powerful force that concerns the emergence of Universal Love and the cosmic ties you share with soul families and friends."
+
+        },
+        {
+
+        "name": "Two Of Cups",
+        "number": "2",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/DzrxSWVg/54-AD7-F3-E-8-EA2-4388-A8-DB-8894-E4-BCA011.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This is a card of partnerships, love and deep friendships. It represents a strong mutual connection and an affinity for positive, loving respect. You have released any blockages that have been exerting pressure on you, and now you can breathe and relax."
+
+        },
+        {
+
+        "name": "Three Of Cups",
+        "number": "3",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/FK5PFy6z/26-ADCE56-A203-4-C3-E-B579-3-FA34-C141-A5-D.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Three of Cups indicates a time of harmonious gatherings, creative energy and the formation of lifelong memories. It can foretell an emergence of spiritual and psychic growth as you learn to raise your vibration to entirely new levels."
+
+        },
+        {
+
+        "name": "Four Of Cups",
+        "number": "4",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/50fnLxbM/922-F7-B09-3733-4-B54-86-AD-FA02-FEF86-CB7.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This card speaks of the tormented emotional states that can impair our grasp on reality. When depression, self-pity or sadness sink in, and we retreat into our own world, our sensations and feelings can be overpowering and illusory. We may feel lost or hopeless, or even outright bored, which may be an indication that we should consider our feelings head-on, and examine our behavioural patterns or deeper motivations."
+
+        },
+        {
+
+        "name": "Five Of Cups",
+        "number": "5",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/xCggPW1N/C1876-EDB-0633-4-FF0-B7-B1-EF7-A0-EA1-B33-B.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Five of Cups reflects the deep energies of change that emerge through instability or loss, and may indicate a time of grief or stress as you struggle to see a way forward. Perhaps you are unable to identify the potential opportunities or support systems that surround you at this time, which in turn may trigger negativity as you lose sight of the positive blessings in your life."
+
+        },
+        {
+
+        "name": "Six Of Cups",
+        "number": "6",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/zvB720yt/DECDA78-F-2704-46-BB-A0-CE-E180-F44-C103-E.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Six of Cups shows up during those quiet moments of nostalgia that tend to take us back in time – sometimes these can be so intoxicating that triggered emotions rise to the surface, whether through reflecting on the incredible moments of our childhood, or the underlying pains and traumas we experienced."
+
+        },
+        {
+
+        "name": "Seven Of Cups",
+        "number": "7",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/tJM5KWPX/2-D90-C80-A-CB73-4-D03-8169-4-C67-D6021-A2-D.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Seven of Cups marks a time in our life when we may feel overwhelmed with options, and consequently cannot make a clear decision. This card might also indicate that we have unrealistic or illusory notions concerning what we can and cannot do."
+
+        },
+        {
+
+        "name": "Eight Of Cups",
+        "number": "8",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/Kv1QnpS4/2-F2-A0-E3-A-F16-C-4268-B35-B-B63-BAD472-B1-D.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Sometimes depicting a traveller, the Eight of Cups represents a soul-searching journey during which you eventually feel the need to leave something behind. This could be triggered from a place of inner restlessness or unhappiness, and marks a time of transition, deliverance or of coming to terms with certain burdens in your life."
+
+        },
+        {
+
+        "name": "Nine Of Cups",
+        "number": "9",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/J76PHVF9/8-A2-B672-A-6-F6-E-41-A7-8-F96-928892-CEE7-EA.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "One of the most joyful and harmonious cards of the Tarot, the Nine of Cups indicates a time of satisfaction and peace on the horizon! Often described as the ‘wish card’, it highlights the fulfilled desires, happiness and positive energies that surround you at this time. This leaves you with a sense of stability and strength, but also comes with a slight caution; this blessing may not be permanent, so relish its magic while you can, and accept it with gratitude."
+
+        },
+        {
+
+        "name": "Ten Of Cups",
+        "number": "10",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/fT1C57DC/50158293-7233-49-AB-BC71-58964582-FECC.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ten of Cups is a magical, loving omen to receive. It signifies great happiness in all areas of family relationships, friendship and love, and asks you to make the most of what life has to offer. When it shows up, things don’t get much better than this."
+
+        },
+        {
+
+        "name": "Page Of Cups",
+        "number": "11",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/zGWjQLfr/61314-AA8-7234-43-C0-86-D4-EA7-B5-DB79016.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A time to check in with your spiritual voice and nature. Trust your intuition and feelings – you are on the right path. This is the beginning phase of a new adventure, project or idea. Take this time to work through your creative processes; they will guide you more than you know."
+
+        },
+        {
+
+        "name": "Knight Of Cups",
+        "number": "12",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/bv9RzKbV/B7-C8-E8-EE-02-F4-4-F1-D-B87-E-9498-D95-FA064.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The arrival of great news, an invitation or an adventure. New experiences are on the horizon: ones that will emotionally nourish your soul and heart. The pursuit and manifestation of creative ventures or projects. Being able to identify the necessary steps to reach your goals."
+
+        },
+        {
+
+        "name": "Queen Of Cups",
+        "number": "13",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/rpkJ28dt/5-A46-D02-F-3-BD2-4-A62-9360-DD0911-EDC96-C.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This card comes as an opportunity to nurture your relationships with others, and to make time for celebratory gatherings. Listen to your inner voice and psychic abilities. The manifestation of loving energy and soulful experiences with the people in your life. Creativity and expression in all of its glory."
+
+        },
+        {
+
+        "name": "King Of Cups",
+        "number": "14",
+        "arcana": "Minor",
+        "suit": "Cups",
+        "img": "https://i.postimg.cc/hjCbmT29/350-D6-C81-EF5-A-4421-A86-F-208156-CDAB68.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "This card comes as a call to find strength in the balance between your emotions and intuitive abilities. It denotes the ability to balance creativity and artistic expression with knowledge and wisdom, and speaks of the connection between your inner voice and Higher Self."
+
+        },
+        {
+
+        "name": "Ace Of Swords",
+        "number": "1",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/9MXYzJYm/45040-FC4-33-D7-4-F20-810-B-F5-F45-E601-DA2.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ace of Swords indicates a heightened state of spiritual and mental clarity. It marks the emergence of great determination and power in order to reach your goals successfully. It signifies a new beginning, project, plan or vision. Very often this also connects with an accelerated shift in consciousness, as you are able to move ahead with wisdom and truth."
+
+        },
+        {
+
+        "name": "Two Of Swords",
+        "number": "2",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/x8cG38ZB/2-B45-FF74-B57-A-4030-8730-7-C7-FE39-B5-CAC.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "If you find yourself at a crossroads, there may be a need to create a sense of balance between two or more opposing factors in your life. Generally when this card shows up, we are experiencing some sort of difficulty in making a concrete plan or decision about something."
+
+        },
+        {
+
+        "name": "Three Of Swords",
+        "number": "3",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/vHxL11fV/FA9-ECED8-B454-4187-9824-DA4726-BCA915.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A more ominous card than most, the Three of Swords often reflects moments of loss, pain, betrayal or heartache – either within your own experience, or because you are causing pain to someone else. Although the presence of such obstacles may feel overwhelming, very often a greater lesson will emerge out of the darkness."
+
+        },
+        {
+
+        "name": "Four Of Swords",
+        "number": "4",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/T1FV7GM1/FEBED697-2-B97-4-E01-A76-F-08712-F896032.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Four of Swords often highlights a time to retreat from the stress and chaos of the world. If you have been experiencing any setbacks or difficulties, take a moment to reflect and meditate on the issues at hand. You will need this time to recuperate and revitalize yourself in order to face or resolve any potential challenges that may return."
+
+        },
+        {
+
+        "name": "Five Of Swords",
+        "number": "5",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/tRMNCdZb/46-B798-CC-7-EE8-4-E96-9229-C4-EE9-E5-DD1-B5.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Five of Swords indicates a state of entrapment or negativity that has been self-inflicted. Through conflict, disagreements or impulsive behaviour, there has been an involuntary burdening of yourself or others. This card highlights pointless winning, and needing to be ‘right’ regardless of the outcome."
+
+        },
+        {
+
+        "name": "Six Of Swords",
+        "number": "6",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/T3rV9Zk2/5-DD50056-82-B7-472-A-A84-A-BC2-BC469327-A.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Six of Swords often shows up during times of transition and change; these might involve a move, travel or upcoming events that mark new opportunities. This card may also highlight the need to let go of something, or some kind of sacrifice that must take place in order to move forward."
+
+        },
+        {
+
+        "name": "Seven Of Swords",
+        "number": "7",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/qvfc2kxZ/1-F6-CF7-C7-10-EF-481-D-A576-D194-B8-EC478-E.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Seven of Swords often illustrates a challenge that may be associated with some kind of dishonesty, deceit or illusion, whether on the part of yourself or someone else. It can indicate an avoidance of truth, with consequences that become apparent when least expected. If there is some kind of secrecy taking place, a new approach or solution is highly encouraged."
+
+        },
+        {
+
+        "name": "Eight Of Swords",
+        "number": "8",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/s2sp0w8Y/A101-CAD8-963-F-45-E4-9-C44-CC6-CD7-ADD59-E.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Eight of Swords suggests an inability to move forward due to a clouded perception. This may be a strong indication that despite your fear or sense of helplessness, there is a positive solution available to you. You may need to step out of this negative space in order to see the light that surrounds you."
+
+        },
+        {
+
+        "name": "Nine Of Swords",
+        "number": "9",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/g0sv93Ff/D77-C302-C-90-A9-4-CDE-95-A6-9009-DFEB7-EB6.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Nine of Swords indicates a state of inner disharmony and habitual worrying. This card can indicate anxiety, insomnia or psychological fear and can point to deceits of the imagination that are hindering your overall health and perspective."
+
+        },
+        {
+
+        "name": "Ten Of Swords",
+        "number": "10",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/4y7thM7g/6-C705-CB2-F42-D-4771-ABCC-544-EDED3-DA42.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ten of Swords may appear during difficult life challenges that are traumatic, disastrous or unexpected. It can also be an indication of lying or deceit on the part of someone else, with the hurtful outcome of feeling betrayed. Know that despite the hardships, a new phase or beginning will transpire."
+
+        },
+        {
+
+        "name": "Page Of Swords",
+        "number": "11",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/L6PL9cFk/6-B228-FD0-4-AAF-4-FC2-B08-C-6-C0642737-C83.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A renewed sense of vitality and energy is on the horizon. Now is the time to move forward with your plans, regardless of the thoughts or views of those around you. The Page of Swords represents the beginning phase or initial steps of a venture or project. Do not be afraid to take a leap into the unknown – there is magic ahead!"
+
+        },
+        {
+
+        "name": "Knight Of Swords",
+        "number": "12",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/nzLqnMnM/E30-E06-EB-C9-E3-4-A94-81-B5-DF9984703-ADE.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "You have clear intentions and your eye is on the prize. It is, however, important that you make a clear plan for those necessary steps in order to reach your goals. Do not move too hastily or rush ahead, or else you may find that you will be regretful."
+
+        },
+        {
+
+        "name": "Queen Of Swords",
+        "number": "13",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/0jTSGfDJ/9445-B13-D-D011-47-E9-B8-B2-13-F5408-B228-C.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Your strength and powers of discernment are needed at this time. You may want to detach your inner emotions or fears from your given situation in order to make an objective decision. Look to all the facts before making any judgements."
+
+        },
+        {
+
+        "name": "King Of Swords",
+        "number": "14",
+        "arcana": "Minor",
+        "suit": "Swords",
+        "img": "https://i.postimg.cc/9XKyjWKF/56-CFBD25-C492-4-AC5-9215-9-F1323-CD6-AF3.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "It is time to speak your truth with confidence and strength. The need to look objectively with no limiting emotions. You are quick-witted and sharp in your convictions, standing up against all odds. Do not concern yourself with the opinions of others. You already know you have what it takes."
+
+        },
+        {
+
+        "name": "Ace Of Crystals",
+        "number": "1",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/qvdnz1pP/AB944234-5128-44-E7-9-EE1-62805-A40-AFE2.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ace of Crystals signifies a new and prosperous beginning that has the potential to grow into long-term success. If you are contemplating some kind of business venture or investment, now may be a good time to set things in motion. The energy of this card speaks of planning and strategizing – laying out the blueprint for the foreseeable future, knowing that the outcome will be fruitful and positive."
+
+        },
+        {
+
+        "name": "Two Of Crystals",
+        "number": "2",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/mgN9M7Dt/35697-FD6-A6-DA-47-C5-98-B3-F150-B39-DDBEB.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Two of Crystals often highlights those moments in life that require a bit of juggling and adaptability. When tasks, responsibilities, obligations, scheduling and everything in between tend to pull us in a million different directions, the Two of Crystals asks how we can find a happy balance between these active forces."
+
+        },
+        {
+
+        "name": "Three Of Crystals",
+        "number": "3",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/GpXsgrvR/6-E082309-2-A00-4-B4-D-913-F-E8462-A76-E175.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Three of Crystals highlights the sacred magic and union that come with collaboration, teamwork and the ability to support and identify individual strengths. The arrival of this card may also be an indication that you have reached a state of accomplishment after all of your hard work, and with your newfound insight, you understand the steps you need to take in order to maintain the momentum of your success."
+
+        },
+        {
+
+        "name": "Four Of Crystals",
+        "number": "4",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/bvytRdDL/3553-E143-260-C-4152-85-F3-85864-BE57-C50.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Although you have reached a wonderful state of success, it may be a good time to take a closer look at your priorities. Are you spending too much time focusing on personal affluence or materialistic things, such as possessions, the accumulation of wealth or social status? You should continue to take pride in all that you have achieved, but not let the illusion of physical wealth get in the way of who you really are."
+
+        },
+        {
+
+        "name": "Five Of Crystals",
+        "number": "5",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/mDq1Rwd6/1-A6-BB218-BDEF-4-B0-E-97-F0-1-DB267-D65-E2-D.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Five of Crystals tends to show up when we are experiencing some kind of worry or loss. It could indicate an actual state of illness, a lack of finances or a feeling of rejection. Very often this leaves us with a sense of non-fulfilment, as if something very important is missing. Perhaps we have lost a friend, a loved one, a pet, a job or a sense of security that once made us feel whole and capable. Over time, if we continue to dwell in this stressful mindset, we can accumulate feelings of helplessness and victimhood, and may become codependent on others."
+
+        },
+        {
+
+        "name": "Six Of Crystals",
+        "number": "6",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/kDPVR5PQ/5-E255-EAA-A420-4-D9-B-8-FCB-F41-F3-F9-A27-F5.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Six of Crystals indicates a state of balance and abundance in your life, and comes as a very harmonious blessing. Whether you are in a position to be of service somehow and help someone in need, or you are in a state of lack and need some kind of support, this card highlights the appearance of compassion and generosity."
+
+        },
+        {
+
+        "name": "Seven Of Crystals",
+        "number": "7",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/JntH9gQk/DC97-FE71-EC42-4944-9-C7-F-53-DE7195-A267.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Seven of Crystals indicates a new perspective relating to your life goals. It could be that you feel as though you have worked very hard but have yet to reap the rewards. Now is not the time to give up! If you are feeling stuck at the moment, take some time to rest and review your next steps."
+
+        },
+        {
+
+        "name": "Eight Of Crystals",
+        "number": "8",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/v8cKGt87/FDDA6-CA6-BB08-45-EF-BC7-A-7693-BD4-D04-D1.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Eight of Crystals highlights the well-earned rewards that you have worked for up until this point. Now you can finally take a moment to reflect on these, knowing you well deserve this pat on the back. The appearance of this card also indicates that your strong will, hard work, perseverance and diligent mindfulness have created the foundations of the success you are now enjoying – so bask in this light, baby, you deserve it!"
+
+        },
+        {
+
+        "name": "Nine Of Crystals",
+        "number": "9",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/hvdzGd64/0-B4-FF0-A6-EC35-4694-91-E2-708-EF8639-ADB.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A wonderful card, the Nine of Crystals represents the culmination of all your efforts and hard work. You have gained a great deal of insight and knowledge along your journey, which has led to your current heightened state of awareness."
+
+        },
+        {
+
+        "name": "Ten Of Crystals",
+        "number": "10",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/cLNkMqRT/981-D15-C2-03-E2-46-B4-A531-8-F288-CC3-BC18.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "The Ten of Crystals is a card of positive reflection and appreciation. It speaks of those times when the success of your journey becomes apparent with age; when you begin to experience the benefits of a life well lived. At this apex of light and stability, it is clear that you have built a strong foundation on which to rest and reap the benefits of everything you have worked towards."
+
+        },
+        {
+
+        "name": "Page Of Crystals",
+        "number": "11",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/cLNkMqRT/981-D15-C2-03-E2-46-B4-A531-8-F288-CC3-BC18.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "Your ideas and plans are headed in the right direction, so it is important to maintain a focus on your goals and aspirations. Now is the time to make concrete plans and to take action. The transition phase between dreams and reality. Expansion. Good news."
+
+        },
+        {
+
+        "name": "Knight Of Crystals",
+        "number": "12",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/kgF1TjwC/A1-FC5650-1875-400-E-9-BB0-C07-A4949-D915.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "It is time to take action! If the task ahead seems tedious or daunting, it is still important to remain focused and follow through. Once you do this, you will feel a renewed sense of accomplishment. Think of the rewards!"
+
+        },
+        {
+
+        "name": "Queen Of Crystals",
+        "number": "13",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/kgF1TjwC/A1-FC5650-1875-400-E-9-BB0-C07-A4949-D915.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "A time to be practical and resourceful with your plans. The building of a stable and realistic foundation. What steps will you take in order to remain healthy, happy and secure in your life? Remember to be compassionate and kind to others."
+
+        },
+        {
+
+        "name": "King Of Crystals",
+        "number": "14",
+        "arcana": "Minor",
+        "suit": "Crystals",
+        "img": "https://i.postimg.cc/N0sNS1PH/9-C3-A093-E-5-BE6-43-AA-A101-41-F890-E12-CF4.jpg",
+        "deck": "Starchild Tarot",
+        "description":
+        "If you look to the future with a clear vision and move forward with self-discipline and determination, there is nothing you cannot accomplish. The King of Crystals reminds us to stay attentive to detail and to be open to new opportunities."
+        }
+    ]
+}

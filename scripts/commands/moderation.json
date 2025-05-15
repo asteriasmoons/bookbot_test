@@ -1,0 +1,122 @@
+{
+  
+  "moderationcommands": { 
+  "mute":
+           {
+             "name": "Mute.",
+             "usage": "~mute <mention, username, ID>, <reason> (optional).",
+             "aliases": null,
+             "description": "Use this command to mute someone who is breaking rules in your server, being inappropriate, etc."
+             
+           },
+    "setmuterole":
+          {
+            
+            "name": "Set Mute Role",
+            "usage": "~setmute <role name, mention, ID>.",
+            "aliases": "~setmuterole, ~smr, ~smrole.",
+            "description": "This sets a mute role for muted users!"
+            
+          },
+    "warn": 
+          {
+            
+            "name": "Warn.",
+            "usage": "~warn <mention member/member ID>, <reason>.",
+            "aliases": null,
+            "description": "This warns a member when they have broken rules, etc."
+            
+          },
+    "unmute": 
+          {
+            
+            "name": "Unmute.",
+            "usage": "~unmute <name, nickname, mention, ID>, <reason> (optional).",
+            "aliases": "~um.",
+            "description": "This unmutes the muted member. Giving a reason is completely optional!"
+            
+          },
+    "ban": 
+          {
+            
+            "name": "Ban.",
+            "usage": "~ban <name, nickname, mention, ID>, <reason> (optional).",
+            "aliases": "~b, ~banish.",
+            "description": "This will ban a member, perhaps they were given five warns and still broke rules, you can ban them with Nixie!"
+            
+          },
+    "unban":
+          {
+            
+            "name": "Unban.",
+            "usage": "~unban <name, nickname, mention, ID>, <reason> (optional).",
+            "aliases": "~ub, ~unbanish.",
+            "description": "This allows you to give forgiveness and unbanish a member from your guild!"
+            
+          },
+    "setnick":
+          {
+            
+            "name": "Set Nickname.",
+            "usage": "~setnick <name, nickname, mention, ID>, <new nickname>.",
+            "aliases": "~sn, ~nick.",
+            "description": "This command allows you to set a users nickname in the case you don't like it and/or it is inappropriate!"
+            
+          },
+    "setmodlogschannel": 
+          {
+            
+            "name": "Set Mod Logs Channel.",
+            "usage": "~setmodlog <channel name, mention, ID>.",
+            "aliases": "~setm, ~sm, ~smc, ~setmodlogchannel.",
+            "description": "This sets up a channel for the bot to send moderation logs to!"
+            
+          },
+    "purge":
+          {
+            
+            "name": "Purge.",
+            "usage": "m/purge <amount of messages>.",
+            "aliases": null,
+            "description": "Deletes messages from a channel, use this when you don't want to have to clone your channel to get a fresh start!"
+            
+          },
+    "kick": 
+          {
+            
+            "name": "Kick.",
+            "usage": "~kick <name, nickname, mention, ID>, <reason> (optional).",
+            "aliases": null,
+            "description": "Kick a user from your server/guild."
+            
+          },
+    "hackban":
+          {
+            
+            "name": "Hackban|Forceban.",
+            "usage": "~hack/forceban <user ID>.",
+            "aliases": "~forceban.",
+            "description": "Forces a ban on a user whom is not in your server!"
+            
+          },
+    "disablemuterole":
+          {
+            
+            "name": "Disable Mute Role.",
+            "usage": "~dmrole <role name, mention, ID>.",
+            "aliases": "~disablemuterole, ~disablemr, ~dmr, ~clearmuterole.",
+            "description": "Disables server Mute role!"
+            
+          },
+    "disablemodlogchannel":
+          {
+            
+            "name": "Disable Mod Log Channel.",
+            "usage": "~disablemodlog <channel name, mention, ID>.",
+            "aliases": "~disablemodlogchannel, ~dmc, ~disablem.",
+            "description": "This command disables the Mod Log channel!"
+            
+         }
+     }
+}
+            

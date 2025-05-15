@@ -1,0 +1,58 @@
+{
+  
+  "divinationcommands": { 
+  "oracle":
+           {
+             "name": "Oracle.",
+             "usgae": "~oracle <question>.",
+             "aliases": "~o.",
+             "description": "Oracle is open to interpretation, use this command asking who, what, when, how and why questions to get a random generated Oracle response! It's up to you how you interpret it!"
+             
+           },
+    "pendulum": 
+           {
+             
+             "name": "Pendulum.",
+             "usage": "~pendulum <question>.",
+             "aliases": "~pd.",
+             "description": "Use the Pendulum command to ask a yes or not question!"
+             
+           },
+    "witchesrune":
+           {
+             
+             "name": "Witches Rune.",
+             "usage": "~wrune.",
+             "aliases": "~wr.",
+             "description": "Ask a question in your head and then type in this command, how you interpret the answer is totally up to you!"
+             
+           },
+    "tarot": 
+          {
+            
+            "name": "Tarot.",
+            "usage": "~tarot.",
+            "aliases": "~t, ~t 3, ~t text, ~t 3 text.",
+            "description": "The Tarot command generates either one or three card readings as text message or embed message. You also get a picture of the card with it from the Starchild Tarot deck!"
+            
+          },
+    "crystal":
+          {
+            
+            "name": "Crystal.",
+            "usage": "~crystal.",
+            "aliases": "~crystal find <name>.",
+            "description": "The Crystal command will either generate a random crystal for you or if you use the find alias for a specific crystal you will get that crystal instead! Want to see more or something specific? Send it with ~suggestion <suggestion>!"
+            
+          },
+    "flower": 
+          {
+            
+            "name": "Flower.",
+            "usage": "~flower.",
+            "aliases": "~flower find <name>.",
+            "description": "The Flower command will either give you information on a random flower or if you use the find alias with a specific name then you will get that instead! If you want to see specific flowers send it with ~suggestion <flower name>!"
+            
+        }
+    }
+}

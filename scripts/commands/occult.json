@@ -1,0 +1,31 @@
+{
+  
+  "occultcommands": { 
+  "horoscope":
+           {
+             "name": "Horoscope.",
+             "usage": "~horoscope <zodiac sign>, <today/yesterday/tomorrow>.",
+             "aliases": "~horo.",
+             "description": "Get your daily Horoscope with this command, otherwise, get yesterdays or even tomorrows!"
+             
+           },
+    "moon": 
+           {
+             
+             "name": "Moon Stats.",
+             "usage": "~moon.",
+             "aliases": "~phase, ~luna.",
+             "Description": "Get the current Moon Phase of the day! This command also tells you what that current phase is best for. It also gives phase, date, age, distance, longitude, latitude, trajectory and constellation! Super handy for when you need to know whens best to cast a certain spell or do a specific ritual!"
+             
+           },
+    "resources":
+           {
+             
+             "name": "Resources.",
+             "usage": "~resources.",
+             "aliases": "~rs.",
+             "description": "This command is useful for when you need some Occult information. In this command I have compiled two embeded messages full of hyperlinks to Blog sites that I've used for years and I vouch for! Use these to find the Occult information that youre looking for!"
+             
+         }
+     }
+}

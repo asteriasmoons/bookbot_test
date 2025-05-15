@@ -1,0 +1,40 @@
+{
+  
+  "altarcommands": { 
+  "altar":
+           {
+             "name": "Altar.",
+             "usage": "~altar.",
+             "aliases": null,
+             "description": "The Altar command is in fact your balance! It shows if you have a Pet Dragon, your Pet Satisfaction points, your mundane inventory and your magical inventory. Premium users have a Bio with their altar and a custom designed banner!"
+             
+           },
+    "bioset":
+           {
+             
+             "name": "Bio Set.",
+             "usage": "~bio-set <type your bio here> (brackets not included).",
+             "aliases": "~set-bio, ~biography-set.",
+             "description": "This sets up a Biography for your altar! It will show as a second embed to your balance embed!"
+             
+           },
+    "biocheck": 
+           {
+             
+             "name": "Bio Check.",
+             "usage": "~bio-check.",
+             "aliases": "~check-bio, ~chk-bio, ~biography-check.",
+             "description": "Bio check command allows you to see your biography only on your altar. It doesn't send your balance/inventory!"
+             
+           },
+    "bioreset":
+           {
+             
+             "name": "Bio Reset.",
+             "usage": "~bio-reset.",
+             "aliases": "~del-bio, ~biography-del, ~reset-bio.",
+             "description": "This allows you to completely erase your biography from your altar. To set it again you will have to use the ~bio-set command!"
+             
+         }
+     }
+}

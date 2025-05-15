@@ -1,0 +1,123 @@
+{
+  
+  "economycommands": { 
+  "manifest":
+           {
+             "name": "Manifest",
+             "usage": "~manifest.",
+             "aliases": "~m",
+             "description": "Executing this command will generate that you did a random job and earned a certain amount of Moonsoda! Use your Moon soda to buy Moonshop items!"
+             
+           },
+    "wish": 
+           {
+             
+             "name": "Wish",
+             "usage": "~wish.",
+             "aliases": "~w.",
+             "description": "Make a wish on a Starcandy in the galaxy sky! This gives you Starcandy points in which you can use in the Starcandy shop!"
+             
+           },
+    "wand":
+          {
+            
+            "name": "Wand",
+            "usage": "~wand.",
+            "aliases": null,
+            "description": "Use your wand to cast a circle and earn Protection Points!"
+            
+          },
+    "affirm":
+          {
+            
+            "name": "Affirm.",
+            "usage": "~affirm.",
+            "aliases": "~a",
+            "description": "Look for an affirmation with this command and it will generate one for you! You also earn Affirmation points with its usage!"
+            
+          },
+    "cauldron": 
+          {
+            
+            "name": "Cauldron.",
+            "usage": "~cauldron",
+            "aliases": "~c.",
+            "desccription": "Use this command to either successfully or poorly make a simmer pot! It's okay if you didnt do well, you still earn Crescent Juice with it!"
+            
+          },
+    "play":
+          {
+            
+            "name": "Play.",
+            "usage": "~play.",
+            "aliases": null,
+            "description": "After you buy a Pet Dragon you can use this command to play with them! Earn Pet Satisfaction when you play!"
+            
+          },
+    "leaderboard": 
+          {
+            
+            "name": "Leaderboard.",
+            "usage": "~leaderboard.",
+            "aliases": "~lb.",
+            "desccription": "This will show you the servers leaderboard!"
+            
+          },
+    "vote": 
+          {
+            
+            "name": "Vote.",
+            "usage": "~vote.",
+            "aliases": "~upvote.",
+            "description": "Liking Nixie bot? Please vote for her! You earn two Magic Tickets each time you vote! Use these Magic Tickets to buy a Pet Dragon!."
+            
+          },
+    "altar": 
+          {
+            
+            "name": "Altar.",
+            "usage": "~altar.",
+            "aliases": null,
+            "description": "This is your personal balance in the server! Check your balance whenever you earn something! Altars now have bios too!."
+            
+          },
+    "moonshop": 
+          {
+            
+            "name": "Moonshop.",
+            "usage": "~moonshop.",
+            "aliases": "~ms.",
+            "description": "This is where you can find magical tools and items to buy and use! You need sufficient Moonsoda to buy them!"
+            
+          },
+    "starcandyshop": 
+          {
+            
+            "name": "Starcandy Shop.",
+            "usage": "~starcandyshop.",
+            "aliases": "~scs.",
+            "description": "Our Starcandy shop is full of extra special items that you can buy with Starcandy and Crystal Pops!"
+            
+          },
+    "petshop": 
+          {
+            
+            "name": "Petshop.",
+            "usage": "~petshop.",
+            "aliases": "~ps.",
+            "description": "Our Pet Dragons are in this shop and you can buy them and the new pets we have coming with your Magic Tickets!"
+            
+          },
+    "buy": 
+          {
+           
+            "name": "Buy.",
+            "usage": "~buy <item name>.",
+            "aliases": null,
+            "description": "Use this command to buy any item from any of our shops!"
+          
+          }
+    
+     }
+
+}
